@@ -11,7 +11,7 @@ Nice to e-meet you! Thank you for visiting my Github page!
 
 🥜 Project: working on refracting and deploy reAction web application.
 
-🎨 Aspiring artist 
+🎨 Outside of computer: enjoy doing art work. 
 
 
 Technologies & tools 
