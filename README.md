@@ -9,9 +9,9 @@ Nice to e-meet you! Thank you for visiting my Github page!
 
 ✍️ Currently: Studying data structure and algorithms.
 
-🥜 Project: working on refracting and deploy reAction web application.
+🥜 Project: working on personal project: making reaction into a mobile app. 
 
-🎨 Outside of computer: enjoy doing art work. 
+🎨 Outside of computer: enjoy doing art work, play video games, discover new food (cook and restaurants).
 
 
 Technologies & tools 
