@@ -7,9 +7,9 @@ Nice to e-meet you! Thank you for visiting my Github page!
 
 🎓 Web development graduate from BrainStation Bootcamp.
 
-✍️ Currently: Studying data structure and algorithms.
+✍️ Currently: Teaching Assistant at BrainStation Web Development Bootcamp.
 
-🥜 Project: working on personal project: making reaction into a mobile app. 
+🥜 Project: working on personal E-commerce project. 
 
 🎨 Outside of computer: enjoy doing art work, play video games, discover new food (cook and restaurants).
 
