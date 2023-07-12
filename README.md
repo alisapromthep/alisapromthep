@@ -9,7 +9,7 @@ Nice to e-meet you! Thank you for visiting my Github page!
 
 ✍️ Previously: Teaching Assistant at BrainStation Web Development Bootcamp.
 
-🥜 Project: Taking ThreeJs Journey course! 
+Learning: Typescript! 
 
 🎨 Outside of computer: enjoy doing art work, play video games, discover new food (cook and restaurants).
 
