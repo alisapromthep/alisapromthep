@@ -4,8 +4,11 @@ Nice to e-meet you!
 
 ### About Me
 🧪 Chemist-turned-technologist | Chemistry + Code + Data
+
 📊 Building toward data analytics — currently levelling up in SQL & Python
+
 🛠️ I make things work: products, platforms, and pipelines
+
 🎨 Outside of computers: art, video games, k-dramas, baking , cooking and hunting down good food
 
 ### Technologies & Tools
